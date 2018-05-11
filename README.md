@@ -15,5 +15,5 @@
 > Below you will find information on how to run project.<br>
 1. Download or clone the repo.
 2. Run the following commands inside project.
-       npm install
-       npm start
+     - npm install
+     - npm start
