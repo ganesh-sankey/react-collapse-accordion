@@ -6,7 +6,6 @@
 
 > This provide information on how to implement both collapse and accordion behaviour in react using [reactstrap](https://reactstrap.github.io/)
 
-## Code Samples
 
 
 
